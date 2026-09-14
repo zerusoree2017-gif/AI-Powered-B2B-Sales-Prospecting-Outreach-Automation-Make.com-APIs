@@ -76,9 +76,12 @@ flowchart LR
     G --> H[Personalized Outreach]
     H --> I[CRM / Database]
     I --> J[Sales Action]
+```
+
 ## 🛠️ Tech Stack
 
-**Make.com** · **OpenAI** · **REST APIs** · **HTTP** · **Webhooks** · **JSON**  
+**Make.com** · **OpenAI** · **REST APIs** · **HTTP** · **Webhooks** · **JSON**
+
 **CRM Automation** · **AI Lead Scoring** · **B2B Sales Prospecting** · **Personalized Outreach**
 
 **Automation flow:**  
