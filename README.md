@@ -42,7 +42,7 @@ Only qualified opportunities move forward. The workflow can notify a sales repre
 
 ### AI Prospecting & Lead Scoring
 
-![AI B2B Sales Prospecting and Lead Scoring Automation](./assets/ai-b2b-prospecting-automation.png)
+![AI Powered B2B Sales Prospecting & Outreach Automation, Make.com + APIs](AI%20Powered%20B2B%20Sales%20Prospecting%20%26%20Outreach%20Automation%20%2C%20Make.com%20%2B%20APIs.png)
 
 *Live workflow showing prospect processing, AI analysis, lead scoring, and sales prioritization.*
 
