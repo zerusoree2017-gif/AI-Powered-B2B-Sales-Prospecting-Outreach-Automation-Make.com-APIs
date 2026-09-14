@@ -48,7 +48,7 @@ Only qualified opportunities move forward. The workflow can notify a sales repre
 
 ### AI Lead Qualification & Personalized Outreach
 
-![AI Lead Qualification and Personalized LinkedIn Outreach](./assets/ai-lead-qualification-linkedin.png)
+![AI Lead Qualification & Personalized LinkedIn Outreach, Make com](AI%20Lead%20Qualification%20%26%20Personalized%20LinkedIn%20Outreach%2C%20Make%20com.png)
 
 *Live automation showing lead qualification, AI-generated personalization, outreach preparation, and CRM workflow.*
 
