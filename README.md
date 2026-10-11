@@ -1,6 +1,6 @@
 # AI-Powered-B2B-Sales-Prospecting-Outreach-Automation-Make.com-APIs
 
-**Executive Summary**: Modern B2B sales demand end-to-end automation. This Make.com project builds a **real-world sales pipeline** that takes raw leads through every step—**capture → enrichment → AI analysis → qualification → personalization → CRM sync → action**—with no code needed. It leverages Make.com’s visual workflows, webhooks, REST APIs, and OpenAI GPT-4 to automate prospecting. For example, a similar “Lead Scoring & Notification Bot” captures leads in real time, scores them, enriches with AI, and alerts only on high-value opportunities. By automating each step, sales teams focus on the best leads and send tailored messages at scale. Industry data backs this: 80% of AI-savvy sales teams report measurable revenue growth, often reclaiming 4–7 hours per rep per week. Many organizations see **3× more qualified meetings and ~21 hours/week saved per rep with AI-driven workflows.**
+**Executive Summary**: Modern B2B sales need smart automation. This Make.com project builds an end-to-end AI-powered sales pipeline that captures leads, enriches data, scores prospects, creates personalized messages, updates the CRM, and sends instant alerts. Using visual workflows, webhooks, REST APIs, and OpenAI GPT-4, it reduces manual work and helps sales teams focus on high-potential leads. The result is a smarter, faster, and more organized sales process with less repetitive work and more time for building customer relationships.
 
 ## How It Works
 
